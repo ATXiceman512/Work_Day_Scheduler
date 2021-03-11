@@ -19,7 +19,8 @@ Download or Clone the project files and open 'index.html' in the prefered broswe
 
 ## Usage
 
-PICTURES HERE
+Main Interface for the user
+![User Interface](./assets/images/Main_Screenshot.PNG "User Interface")
 
 ## Credits
 
